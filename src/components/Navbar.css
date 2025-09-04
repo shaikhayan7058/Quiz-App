@@ -1,0 +1,17 @@
+.nav-container{
+  display: flex;
+  gap: 20% ;
+  
+}
+.nav-links{
+  list-style: none;
+  text-decoration-style: none;
+}
+ul{
+  display: flex;
+    gap: 20% ;
+}
+li{
+    list-style: none;
+    text-decoration-style: none;
+}
